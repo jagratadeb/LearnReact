@@ -21,8 +21,8 @@ Use this table to record the Day number and the Topic you'll work on that day. F
 | Day | Topic |
 |---:|:------|
 | 1 |  Introduction to React |
-| 2 |  |
-| 3 |  |
+| 2 | React and Vite |
+| 3 | Explore the folder structure |
 | 4 |  |
 | 5 |  |
 | 6 |  |
