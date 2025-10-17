@@ -1,7 +1,7 @@
 
 function App() {
   return (
-    <h1>Hello | agrata Deb</h1>
+    <h1>Hello | Jagrata Deb</h1>
   );
 }
 
