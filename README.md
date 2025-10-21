@@ -23,8 +23,8 @@ Use this table to record the Day number and the Topic you'll work on that day. F
 | 1 |  Introduction to React |
 | 2 | React and Vite |
 | 3 | Explore the folder structure |
-| 4 |  Creating custom React|
-| 5 |  |
+| 4 |  Creating custom React hooks |
+| 5 |  Counter Project (Understanding Hooks) |
 | 6 |  |
 | 7 |  |
 | 8 |  |
