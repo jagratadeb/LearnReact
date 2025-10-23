@@ -27,7 +27,7 @@ Use this table to record the Day number and the Topic you'll work on that day. F
 | 5 |  Counter Project (Understanding Hooks) |
 | 6 |  Virtual DOM, Fibre and Reconciliation|
 | 7 | Tailwind CSS |
-| 8 |  |
+| 8 | React Interview Question |
 | 9 |  |
 | 10 |  |
 | 11 |  |
